@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.exe
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.deps.json
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.runtimeconfig.json
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.dll
+C:\Users\Administrator\source\repos\ptln-mang2chieu\bin\Debug\netcoreapp3.1\ptln-mang2chieu.pdb
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.dll
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.pdb
+C:\Users\Administrator\source\repos\ptln-mang2chieu\obj\Debug\netcoreapp3.1\ptln-mang2chieu.genruntimeconfig.cache
